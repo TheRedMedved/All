@@ -1,3 +1,6 @@
 [submodule "git_lessons_2020_server"]
 	path = git_lessons_2020_server
 	url = https://github.com/TheRedMedved/git_lessons_2020_server.git
+[submodule "git_lessons"]
+	path = git_lessons
+	url = https://github.com/TheRedMedved/git_lessons.git
